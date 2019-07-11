@@ -2,8 +2,8 @@
 ### Search Movies, Music, and venues for bands.
 
 #### Demo
-[Click here for the repository](https://github.com/CodesByMo/liri-node-app)
-[Click here to see a demo of how this app works!](http://drive.google.com)
+[Click here for the repository](https://github.com/CodesByMo/liri-node-app)  
+[Click here to see a demo of how this app works!](https://drive.google.com/file/d/1DF9M03xM1tufJwv3J9VtmhMY9hzcoTFV/view?usp=sharing)
 
 # How to use
 Include search parameters after each of the following commands.
